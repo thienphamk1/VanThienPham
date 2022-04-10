@@ -6,5 +6,5 @@
       + numphone : 0394921219;
       + email : vanthien.dev@gmail.com;
 ### My Some Project : (all in https://github.com/ThienProject )
-- 
+- Practical exercise in f8  : https://thienproject.github.io/F8-couse/
 
